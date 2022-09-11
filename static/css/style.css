@@ -1,0 +1,7 @@
+
+  .jumbotron {
+    color: hsl(55, 82%, 67%);
+    background-image: url("../images/beef.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
