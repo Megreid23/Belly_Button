@@ -1,6 +1,6 @@
 # Belly_Button
 
-[link to deployed webpage](http://127.0.0.1:5501/index_1.html)
+[link to deployed webpage](https://megreid23.github.io/Belly_Button/)
 
 
 ## Overview
